@@ -12,7 +12,6 @@ n=n/10;
 i++;
 count++;
 }
-printf("\nc=%d\n",count);
 for(i=0;i<count;i++){
 for(j=i+1;j<count;j++)
  {
